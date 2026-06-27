@@ -1,0 +1,23 @@
+    {
+        id: "1513676556483166358",
+        label: "Falling With Style",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/7559e4621d9e402ac6ce7ec09b12fcb7a0b8a0145b4d289edb160dc2c5490beb",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/7559e4621d9e402ac6ce7ec09b12fcb7a0b8a0145b4d289edb160dc2c5490beb",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/451f124522dc6639a1d54974a7633bc1463f0944f7ea2e62942b9661814c0630",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/8581e764727384a811a8793be7201dbe3e0c42386ee430f35a8423d00231fa4f", loop: false, duration: 5000, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/be07a283773ae41e02cf0f3cae633b36a30f0ce8a155ef08d03875c12935e837", loop: true, duration: 5000, start: 8000, loopDelay: 5000, zIndex: 101, randomizedSources: [] },
+        ]
+    },
+
+    {
+        id: "1513679189214101584",
+        label: "Falling With Style (Clouds Only)",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/9ab4b160c7651e094c7b3ee1532e4f00df99e98fd1746b920f8b26073de595e3",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/9ab4b160c7651e094c7b3ee1532e4f00df99e98fd1746b920f8b26073de595e3",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/451f124522dc6639a1d54974a7633bc1463f0944f7ea2e62942b9661814c0630",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/f10ee2921215c8eb624b49839f82fe75fe13062b86376944d86ba3ddec3342ef", loop: false, duration: 5000, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/be07a283773ae41e02cf0f3cae633b36a30f0ce8a155ef08d03875c12935e837", loop: true, duration: 5000, start: 8000, loopDelay: 5000, zIndex: 101, randomizedSources: [] },
+        ]
+    },

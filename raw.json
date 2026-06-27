@@ -1,0 +1,234 @@
+{
+    "sku_id": "1513676556483166358",
+    "product_id": "1513677019727134955",
+    "name": "Falling With Style",
+    "summary": "Show this effect when others view your profile.",
+    "store_listing_id": "1513676556483166358",
+    "updated_at": "2026-06-15T20:01:46.724155+00:00",
+    "prices": {
+        "0": {
+            "country_prices": {
+                "country_code": "US",
+                "prices": [
+                    {
+                        "amount": 899,
+                        "currency": "usd",
+                        "exponent": 2
+                    }
+                ]
+            }
+        },
+        "4": {
+            "country_prices": {
+                "country_code": "US",
+                "prices": [
+                    {
+                        "amount": 699,
+                        "currency": "usd",
+                        "exponent": 2
+                    }
+                ]
+            }
+        }
+    },
+    "items": [
+        {
+            "type": 1,
+            "sku_id": "1513676556483166358",
+            "title": "Falling With Style (Base)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Buzz holding Woody up while soaring through the air",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7559e4621d9e402ac6ce7ec09b12fcb7a0b8a0145b4d289edb160dc2c5490beb",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/451f124522dc6639a1d54974a7633bc1463f0944f7ea2e62942b9661814c0630",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8581e764727384a811a8793be7201dbe3e0c42386ee430f35a8423d00231fa4f",
+                    "loop": false,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/be07a283773ae41e02cf0f3cae633b36a30f0ce8a155ef08d03875c12935e837",
+                    "loop": true,
+                    "duration": 5000,
+                    "start": 8000,
+                    "loopDelay": 5000,
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        }
+    ],
+    "variant_config": {
+        "variant": {
+            "variant_label": "Base",
+            "variant_value": "#ffe922",
+            "base_variant_sku_id": "1513676556483166358",
+            "base_variant_name": "Falling With Style"
+        },
+        "variants": [
+            "1513676556483166358",
+            "1513679189214101584"
+        ]
+    },
+    "type": 2000,
+    "premium_type": 0,
+    "google_sku_ids": {
+        "5": "1513676556483166358_1513678134048981072",
+        "7": "1513676556483166358_1513678140407414894"
+    },
+    "variants": [
+        {
+            "sku_id": "1513676556483166358",
+            "name": "Falling With Style",
+            "summary": "Show this effect when others view your profile.",
+            "store_listing_id": "1513676556483166358",
+            "prices": {
+                "0": {
+                    "country_prices": {
+                        "country_code": "US",
+                        "prices": [
+                            {
+                                "amount": 899,
+                                "currency": "usd",
+                                "exponent": 2
+                            }
+                        ]
+                    }
+                },
+                "4": {
+                    "country_prices": {
+                        "country_code": "US",
+                        "prices": [
+                            {
+                                "amount": 699,
+                                "currency": "usd",
+                                "exponent": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "items": [
+                {
+                    "type": 1,
+                    "sku_id": "1513676556483166358",
+                    "title": "Falling With Style (Base)",
+                    "description": "Show this effect when others view your profile.",
+                    "accessibilityLabel": "Buzz holding Woody up while soaring through the air",
+                    "animationType": 2,
+                    "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7559e4621d9e402ac6ce7ec09b12fcb7a0b8a0145b4d289edb160dc2c5490beb",
+                    "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/451f124522dc6639a1d54974a7633bc1463f0944f7ea2e62942b9661814c0630",
+                    "effects": [
+                        {
+                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8581e764727384a811a8793be7201dbe3e0c42386ee430f35a8423d00231fa4f",
+                            "loop": false,
+                            "duration": 5000,
+                            "start": 0,
+                            "loopDelay": 0,
+                            "zIndex": 100,
+                            "randomizedSources": []
+                        },
+                        {
+                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/be07a283773ae41e02cf0f3cae633b36a30f0ce8a155ef08d03875c12935e837",
+                            "loop": true,
+                            "duration": 5000,
+                            "start": 8000,
+                            "loopDelay": 5000,
+                            "zIndex": 101,
+                            "randomizedSources": []
+                        }
+                    ]
+                }
+            ],
+            "type": 1,
+            "premium_type": 0,
+            "google_sku_ids": {
+                "5": "1513676556483166358_1513678134048981072",
+                "7": "1513676556483166358_1513678140407414894"
+            },
+            "variant_label": "Base",
+            "variant_value": "#ffe922",
+            "base_variant_sku_id": "1513676556483166358",
+            "base_variant_name": "Falling With Style"
+        },
+        {
+            "sku_id": "1513679189214101584",
+            "name": "Falling With Style (Clouds Only)",
+            "summary": "Show this effect when others view your profile.",
+            "store_listing_id": "1513679189214101584",
+            "prices": {
+                "0": {
+                    "country_prices": {
+                        "country_code": "US",
+                        "prices": [
+                            {
+                                "amount": 899,
+                                "currency": "usd",
+                                "exponent": 2
+                            }
+                        ]
+                    }
+                },
+                "4": {
+                    "country_prices": {
+                        "country_code": "US",
+                        "prices": [
+                            {
+                                "amount": 699,
+                                "currency": "usd",
+                                "exponent": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "items": [
+                {
+                    "type": 1,
+                    "sku_id": "1513679189214101584",
+                    "title": "Falling With Style (Clouds Only)",
+                    "description": "Show this effect when others view your profile.",
+                    "accessibilityLabel": "Fluffy white and grey cartoon clouds drift across a blue sky",
+                    "animationType": 2,
+                    "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9ab4b160c7651e094c7b3ee1532e4f00df99e98fd1746b920f8b26073de595e3",
+                    "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/451f124522dc6639a1d54974a7633bc1463f0944f7ea2e62942b9661814c0630",
+                    "effects": [
+                        {
+                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/f10ee2921215c8eb624b49839f82fe75fe13062b86376944d86ba3ddec3342ef",
+                            "loop": false,
+                            "duration": 5000,
+                            "start": 0,
+                            "loopDelay": 0,
+                            "zIndex": 100,
+                            "randomizedSources": []
+                        },
+                        {
+                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/be07a283773ae41e02cf0f3cae633b36a30f0ce8a155ef08d03875c12935e837",
+                            "loop": true,
+                            "duration": 5000,
+                            "start": 8000,
+                            "loopDelay": 5000,
+                            "zIndex": 101,
+                            "randomizedSources": []
+                        }
+                    ]
+                }
+            ],
+            "type": 1,
+            "premium_type": 0,
+            "google_sku_ids": {
+                "5": "1513679189214101584_1516790325480263800",
+                "7": "1513679189214101584_1516790331251757097"
+            },
+            "variant_label": "Clouds Only",
+            "variant_value": "#4c9fff",
+            "base_variant_sku_id": "1513676556483166358",
+            "base_variant_name": "Falling With Style"
+        }
+    ]
+}
