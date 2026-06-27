@@ -18,10 +18,22 @@ def format_effects(effects):
 
 
 def convert(data):
+    variants = data.get("variants", [])
+    if not variants:
+        variants = [{
+            "sku_id": data.get("sku_id"),
+            "name": data.get("name"),
+            "items": data.get("items", [])
+        }]
+
     output = []
 
-    for variant in data.get("variants", []):
-        item = variant["items"][0]
+    for variant in variants:
+        items = variant.get("items", [])
+        if not items:
+            continue
+
+        item = items[0]
 
         block = f"""    {{
         id: "{variant.get("sku_id")}",
